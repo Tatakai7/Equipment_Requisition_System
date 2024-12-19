@@ -1,0 +1,119 @@
+#inventory-table {
+    font-weight: bold;
+    text-shadow: 1px 2px 0px black, 1px 2px 0px black, 1px 2px 0px black, 1px 2px 0px black;
+}
+
+.add {
+    padding: 5px 5px !important;
+    font-size: 16px !important;
+    text-shadow: 1px 2px 0px black, 1px 2px 0px black, 1px 2px 0px black, 1px 2px 0px black;
+}
+
+.equipment {
+    margin-left: 3px !important;
+}
+
+.col-10 {
+    margin: 0 auto !important;
+}
+
+.bg-info {
+    text-shadow: 1px 2px 0px black, 1px 2px 0px black, 1px 2px 0px black, 1px 2px 0px black !important;
+    justify-content: center;
+}
+
+table tr td {
+    vertical-align: middle;
+}
+
+td button {
+    margin: 5px;
+}
+
+td button i {
+    font-size: 10px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.btn-close {
+    position: absolute;
+    top: 2vh;
+    right: 2vw;
+    transform: translate(10px);
+}
+
+.btn-close:hover {
+    background-color: red;
+}
+
+input.form-control {
+    cursor: pointer;
+}
+
+.modal-header {
+    background: #204879;
+    color: #fff;
+}
+
+.modal .modal-dialog {
+    max-width: 400px;
+}
+
+.modal .modal-header,
+.modal .modal-body,
+.modal .modal-footer {
+    padding: 10px 30px;
+}
+
+.modal .modal-content {
+    border-radius: 3px;
+}
+
+.modal .modal-footer {
+    background: #ecf0f1;
+    border-radius: 0 0 3px 3px;
+}
+
+.modal .modal-title {
+    display: inline-block;
+}
+
+.modal .form-control {
+    border-radius: 2px;
+    box-shadow: none;
+    border-color: #dddddd;
+}
+
+.modal .btn {
+    border-radius: 20px;
+    min-width: 100px;
+}
+
+.modal form label {
+    font-weight: bold;
+}
+
+.modal-title {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    align-items: center;
+    display: flex;
+    margin-bottom: 2px;
+}
+
+select {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+label {
+    margin-bottom: 1px;
+    margin-top: 5px;
+}
