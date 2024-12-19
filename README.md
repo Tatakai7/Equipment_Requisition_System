@@ -1,3 +1,7 @@
+![image alt](https://github.com/Tatakai7/Equipment-Requisition-Web-Based-System/blob/b11b970ca5b81543077c0caec2970bb7f66604bd/adminPage.png)
+
+
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
