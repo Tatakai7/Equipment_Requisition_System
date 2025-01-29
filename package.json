@@ -13,7 +13,7 @@
     "concurrently": "^8.2.2",
     "sass": "^1.74.1",
     "solid-devtools": "^0.29.2",
-    "vite": "^5.1.4",
+    "vite": "^5.4.14",
     "vite-plugin-solid": "^2.8.2"
   },
   "dependencies": {
