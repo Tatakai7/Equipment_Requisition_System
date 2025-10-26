@@ -1,5 +1,5 @@
 {
-  "name": "JohnRaymondCaberte",
+  "name": "johnraymondcaberte",
   "version": "0.0.0",
   "description": "Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.",
   "scripts": {
